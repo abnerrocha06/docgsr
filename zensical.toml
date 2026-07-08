@@ -2,7 +2,7 @@
 site_name = "Doce GSR 2026.1"
 site_description = "Documentação estudantil de Gerência e Segurança de Redes de Computadores."
 
-site_author = "Fulano de Tal"
+site_author = "Abner, Alixon, Lucas e Taynara"
 site_url = "https://ifrnlab.github.io/doce-gsr/"
 
 repo_url = "https://github.com/ifrnlab/doce-gsr"
